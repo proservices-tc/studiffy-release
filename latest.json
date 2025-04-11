@@ -1,0 +1,19 @@
+{
+  "version": "1.0.1",
+  "notes": "first commit",
+  "pub_date": "2024-04-11T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "SIGNATURE_STRING",
+      "url": "https://releases.myapp.com/windows-x86_64/app-1.0.1.msi"
+    },
+    "darwin-x86_64": {
+      "signature": "SIGNATURE_STRING",
+      "url": "https://releases.myapp.com/darwin-x86_64/app-1.0.1.dmg"
+    },
+    "linux-x86_64": {
+      "signature": "SIGNATURE_STRING",
+      "url": "https://releases.myapp.com/linux-x86_64/app-1.0.1.AppImage"
+    }
+  }
+}
