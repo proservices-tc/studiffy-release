@@ -4,7 +4,6 @@
   "pub_date": "2025-04-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_WINDOWS_SIGNATURE_HERE",
       "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.0.1/windows/app-1.0.0.msi"
     },
     "linux-x86_64": {
