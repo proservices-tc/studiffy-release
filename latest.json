@@ -1,11 +1,11 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "notes": "Auto-generated release",
-  "pub_date": "2025-04-12T22:57:39Z",
+  "pub_date": "2025-04-12T23:13:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHg0aHB5a2FQc2JTY1hNWmRrQ0JFYlhsK1lxUDlZLytya25zL20wUkhJOENMNUI1U0ZRMmhZb3RPVEx6RW9pZ1NzTkZFczJSNS9QT0JUeEpWWDgrcXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NDk4NjU5CWZpbGU6c3R1ZGlmZnktY291cnNfMS40LjlfeDY0LXNldHVwLmV4ZQo2d0p0d3grcHc5RTlEV2I2NXRGZ1VDRE9lVmwzRWd2eU01UktkQWIrcERWWGMwU3FiU2kyUFRYSGU2YitsbmU3ODBMNjE1aUEvU1NkaVd4QWZraGxBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.4.9/nsis/studiffy-cours_1.4.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODI1TDBKdUZ4ZG5FRFRna3I5WU1kSGQ3MTc1MEVyWXovNVV2SmoxcFhkK3ZKcDcyeCs0V20rNER2YXdGTGdNbUx1aE5Lci8zMjRITG9HLy9qcmdJUmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NDk5NTg5CWZpbGU6c3R1ZGlmZnktY291cnNfMS41LjBfeDY0LXNldHVwLmV4ZQptUWxtdFprL2VkdFR4MGNwVURxRlNPOVFnTlhweGlaNlVtTHJYa1lJaE1ranNyUDFXOUNEMFBRN1UxekFPUEREcEluL0lqQ2NiN3dWbWVHbUdvY2lDQT09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.5.0/nsis/studiffy-cours_1.5.0_x64-setup.exe"
     }
   }
 }
