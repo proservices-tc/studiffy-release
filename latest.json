@@ -1,19 +1,15 @@
 {
-  "version": "1.0.1",
-  "notes": "first commit",
-  "pub_date": "2024-04-11T12:00:00Z",
+  "version": "1.0.0",
+  "notes": "First public release",
+  "pub_date": "2025-04-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "SIGNATURE_STRING",
-      "url": "https://releases.myapp.com/windows-x86_64/app-1.0.1.msi"
-    },
-    "darwin-x86_64": {
-      "signature": "SIGNATURE_STRING",
-      "url": "https://releases.myapp.com/darwin-x86_64/app-1.0.1.dmg"
+      "signature": "PASTE_WINDOWS_SIGNATURE_HERE",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.0.1/windows/app-1.0.0.msi"
     },
     "linux-x86_64": {
-      "signature": "SIGNATURE_STRING",
-      "url": "https://releases.myapp.com/linux-x86_64/app-1.0.1.AppImage"
+      "signature": "PASTE_LINUX_SIGNATURE_HERE",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.0.0/linux/app-1.0.0.AppImage"
     }
   }
 }
