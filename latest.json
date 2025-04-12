@@ -1,15 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "First public release",
-  "pub_date": "2025-04-12T12:00:00Z",
+  "version": "1.4.1",
+  "notes": "Auto-generated release",
+  "pub_date": "2025-04-12T20:41:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODRRb2tVUTBRcVZQVE9ERTZwZmlOTFNYWk9SaW9XOGlaYms4NmhDdTBvVHJoaFMzbCtQT1c3YVQ1cGVidVhvTVNMOHYzRWozWUtKb1E1RXg4aGdyZ0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NDc4NTgyCWZpbGU6c3R1ZGlmZnktY291cnNfMS4wLjFfeDY0LXNldHVwLmV4ZQo4QVBLWCtTRmdNNklsTTlib2FoalNtM0R1SUNJNERnVWdyTGVubmxlUkEyT2x4MGVWSUJ6emFJT2xvSGxkSmZHKzlKdUp0aDFjbTBHZTB1WnVPa0lEUT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.0.1/windows/studiffy-cours_1.0.1_x64-setup.exe"
-    },
-    "linux-x86_64": {
-      "signature": "PASTE_LINUX_SIGNATURE_HERE",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.0.0/linux/app-1.0.0.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODZFVXpSU3hzRTZpQTlPcEJnR2wxK2dCYVpoQ0l0OUtZNFMzZlpPY082TGw4NVhRRFVCbVBvdzloakNkUkVpZittOTNGM0htNnFDQ1VUb00xcThuOWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NDkwNDc2CWZpbGU6c3R1ZGlmZnktY291cnNfMS40LjFfeDY0LXNldHVwLmV4ZQoreU0wWmVidXcramttRnlSdkhsN1dqcElZZWc1TVFwY2pUOWg4KzlKVmF6VWk0OHpIRzRoOHRNdXltb0NYeXUrOXM2NS9UNVlROW9aTFZIeERMb01Edz09Cg==",
+      "url": "https://github.com/med-aziz-guennichi/studiffy-release/releases/download/v1.4.1/studiffy-cours_1.4.1_x64-setup.exe"
     }
   }
 }
