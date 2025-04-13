@@ -1,0 +1,11 @@
+{
+  "version": "1.7.0",
+  "notes": "Auto-generated release",
+  "pub_date": "2025-04-13T11:17:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHlBYXJkTktDUTVtU0svTDZTVTBJZnluWGgxeVJFL01pWEhlNHpucUQ1Z3cvNGR3YTV1TnBMQ090Q01nczJ6aVNhMXl2NE9SVDBkSHNhbE12WFliNGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTQzMDM5CWZpbGU6c3R1ZGlmZnktY291cnNfMS43LjBfeDY0LXNldHVwLmV4ZQpjMG5lTHNyU1k1VGRlbFhnVTNlNFBWd1FpK1ZzeXpOdHhoUGQzeHN1dm13emhucitPN3hwNHQrdnVSbWRxV25FcktuR0gyT0JjdkM0Nk53L21keUZDUT09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.7.0/nsis/studiffy-cours_1.7.0_x64-setup.exe"
+    }
+  }
+}
