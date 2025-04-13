@@ -1,0 +1,11 @@
+{
+  "pub_date": "2025-04-13T20:37:16Z",
+  "version": "1.8.4",
+  "notes": "Release 1.8.4",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHgyL2VmeGVIQzk3V1dlRENxOWRaa1J5b0RnZ0FJWkhKR2hHd2pkRUU4MFdwcTZHNG5yVGZKeEsyVGVPS3FsT3Z0MEcvaVlpdmJaSUFWQTBYbm83MUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NTc2NjM1CWZpbGU6c3R1ZGlmZnktY291cnNfMS44LjRfeDY0X2VuLVVTLm1zaQowWlNQNEcrcGhmR3RBd1JuaWNUN3NFcDZmQVk1MXhURUpURUZuTzVDYTQ1cmlCSjhPNW1idmNUSWowYzlBUXhXb2xSSCtZNklVTUxPdkpVMlF6OUtBdz09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.8.4/msi/studiffy-cours_1.8.4_x64_en-US.msi"
+    }
+  }
+}
