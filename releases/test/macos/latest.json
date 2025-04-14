@@ -1,0 +1,11 @@
+{
+  "version": "test.v",
+  "notes": "Release test.v",
+  "pub_date": "2025-04-14T16:45:17Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/vtest.v/macos/studiffy-cours_test.v_aarch64.app.tar.gz"
+    }
+  }
+}

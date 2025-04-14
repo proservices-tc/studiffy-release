@@ -1,11 +1,11 @@
 {
-  "pub_date": "2025-04-14T16:43:32Z",
-  "version": "1.9.4",
-  "notes": "Release 1.9.4",
+  "version": "test.v",
+  "notes": "Release test.v",
+  "pub_date": "2025-04-14T16:45:17Z",
   "platforms": {
-    "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.9.4/msi/studiffy-cours_1.9.4_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHlMUUJTVmxqeG15VmkyYjBLSktUQlVQUll3Y3paNWdhTXRXa2Vyc3NxWVlkNUlKS3dCMi9iNUo1Q3dNRHNLd1pxYWloaEtxb3Z0N0l0Wm9lalRMUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjQ5MDExCWZpbGU6c3R1ZGlmZnktY291cnNfMS45LjRfeDY0X2VuLVVTLm1zaQpPNWY4cUZUWk00RVE2aUtMV2k1K205NDF1N3E0YXBlU2NFc3BsejdQUGlLL0o3VWtaMHR0SnBzcCt5eXVXNHAwakl5N1pSN0ZMQ0p3N2dBRldZd2ZEQT09Cg=="
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/vtest.v/macos/studiffy-cours_test.v_aarch64.app.tar.gz"
     }
   }
 }
