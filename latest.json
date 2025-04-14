@@ -1,11 +1,11 @@
 {
-  "version": "1.8.6",
+  "pub_date": "2025-04-14T16:43:32Z",
+  "version": "1.9.4",
+  "notes": "Release 1.9.4",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.8.6/msi/studiffy-cours_1.8.6_x64_en-US.msi",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHczMGtacndNWlZ2OGFRMk4yb0Vwc0RpTUJMaWp0N0todTcwUXFGenBsc2pSWG9PUTRSNzV5aDlVQWtEWGVIQUI1cHF2MW9URlFTa1NoWlI2TzBWTEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjQ3Mjc0CWZpbGU6c3R1ZGlmZnktY291cnNfMS44LjZfeDY0X2VuLVVTLm1zaQo1MnJrc1FZcnFSUTdmSVltWTZ4WmE3RjNpdDFyUklXWUhZV3hzZ0M5UERGRHN6UGY5czBhK0hyQU5GTnNqU2ZGNU03ZCtQYTRlbjZmMitHMVd6SE9CQT09Cg=="
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v1.9.4/msi/studiffy-cours_1.9.4_x64_en-US.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHlMUUJTVmxqeG15VmkyYjBLSktUQlVQUll3Y3paNWdhTXRXa2Vyc3NxWVlkNUlKS3dCMi9iNUo1Q3dNRHNLd1pxYWloaEtxb3Z0N0l0Wm9lalRMUFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0NjQ5MDExCWZpbGU6c3R1ZGlmZnktY291cnNfMS45LjRfeDY0X2VuLVVTLm1zaQpPNWY4cUZUWk00RVE2aUtMV2k1K205NDF1N3E0YXBlU2NFc3BsejdQUGlLL0o3VWtaMHR0SnBzcCt5eXVXNHAwakl5N1pSN0ZMQ0p3N2dBRldZd2ZEQT09Cg=="
     }
-  },
-  "pub_date": "2025-04-14T16:14:35Z",
-  "notes": "Release 1.8.6"
+  }
 }
