@@ -1,19 +1,19 @@
 {
-  "version": "2.1.0",
-  "notes": "Release 2.1.0",
-  "pub_date": "2025-04-16T16:01:31Z",
+  "version": "2.1.1",
+  "notes": "Release 2.1.1",
+  "pub_date": "2025-04-16T21:17:23Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODRNRzUyejhsRWRYMmZoOFZsbFNtaklKTDhicmVydXJMNi92ckhvVEdqbTVJVU5TZitsUitlQzRDelhFbnRabnJwd3k5eFdPQkU2WWU1UDVJdWZvSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODE5MTU2CWZpbGU6c3R1ZGlmZnktY291cnNfMi4xLjBfYW1kNjQuZGViCjhHTHI4SzRqcFV1amxnalBGdGxzUzlKU3o1MEcvalJrcUxlZ2dMd0pGTHVaK0VmLzVjMXFDSU5ocHRwaXBvejNuSVVvUGF2WnU2K3lwWk44azZnNERnPT0K",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.0/deb/studiffy-cours_2.1.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODczN3cyYkt1dHlCR3lwRjZaWktDcjdEdnZJUEJuMGVuc3FXT09EWEVOaTcyNDdxbDJTUnI0TlROaDhNUHVGamZ0RWpHOG1MVjRPL0dieUIrbVg1Q0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODM3ODkyCWZpbGU6c3R1ZGlmZnktY291cnNfMi4xLjFfYW1kNjQuZGViCk5MMjBaNXN5bjI2RTMzb1V5ZGk0OFUyUGlYOHlqR0tZUmpsSXBDQmJ6ZEQ5REtabUtDM0VYVWFpc3hTZjh2UFVyUm00RlMzZW02LzZSNkZrM2Y1SkFRPT0K",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.1/deb/studiffy-cours_2.1.1_amd64.deb"
     },
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.0/macos/studiffy-cours_2.1.0_aarch64.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.1/macos/studiffy-cours_2.1.1_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODJqWDM5cjlBZm92amYra0ZiT3dJb2QwZ00wbXJLTkl1TG54NVg3eFB1VVhxYmwvMTZQY2tMWUZQVkJEL1lteTFDSEkwRTQxWFZTb3QvUXM5M1B4WFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODE5MjM5CWZpbGU6c3R1ZGlmZnktY291cnNfMi4xLjBfeDY0X2VuLVVTLm1zaQo3NDlsTEFIeVVyWWR5eVBxeEwxendrajRGdy9rOXFSOTV3YjhEc282RTNHd21DRndYTmFMZTlYODdpNVlRencvTFZacDZpMkxYQW16ZVBwZEdERlJBUT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.0/msi/studiffy-cours_2.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODhOSTVMMVhEOVkxOWlra2dXaEZFb1NGdUVvTVM5TXlHbStMVGFoK3ZBUUExS3kxSTBXTlhiQVhUaFV5dTZnZEgzVmRuOW5td1RUZU14cDkzUTllc0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ0ODM4MjAzCWZpbGU6c3R1ZGlmZnktY291cnNfMi4xLjFfeDY0X2VuLVVTLm1zaQpRcDBmbU5oNGJWdk5kMDNYanZxdThWS0thcGMrTFVGN2U2cUpTZXVhN0JBY2ZjdDhUdjFQYzlyTjVWcWIxeVdsTmdFUXRiN1BTRndyUWVnVHZQb3BCZz09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.1.1/msi/studiffy-cours_2.1.1_x64_en-US.msi"
     }
   }
 }
