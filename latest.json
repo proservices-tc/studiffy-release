@@ -1,19 +1,19 @@
 {
-  "version": "2.4.6",
+  "version": "2.4.7",
   "notes": "✨ New Features & Improvements:\n\n- 🔐 Added secure login with biometric support\n- 🗂️ New Class Manager with filtering and pagination\n- ⚡ Performance improvements in video upload and compression\n- 🐛 Fixed issues with lesson syncing on slow connections\n\nThank you for using Studiffy! 🚀",
-  "pub_date": "2025-05-01T00:23:10Z",
+  "pub_date": "2025-05-01T01:06:44Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODJJaXUwSWN3UDk3WHNDUFRETDNicTZ1VFpDcFpnVDZnVVdKMjQ2dkI3Z3NIdWRzVWc1WXpyNHhDQlV0NDliYXVrRWhXT2FCRllaMVl5VWZBbCtuSFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDU4MjI1CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjZfYW1kNjQuZGViCnQwYXhNYmNya05GS0FQYU9IZnV0NzdhbFZQbStjM1BKK3hCYUhsZGIwU3BMV25KZ2tITnpPZGloYld6RmdwOEJiWlNQaEl2dHlMaUdFWUJocEZ5WENnPT0K",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.6/deb/studiffy-cours_2.4.6_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODcvdGpidkJrS2ZsTHNXLzNja1ZJZUNUcHVTZEVPY1YwclFRSG5Pb1BoNDhyOUtKY2JKRzlpTHB4bGpKRHU0RktjaWJjQjNENHFOTHJ2K0hxODFlbFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDYxMjY4CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjdfYW1kNjQuZGViCjhEeUFMbHRSdFpHZkZENGliQ0ZOM244Wnh6dGpCbVhKYzlHVUdZYXEwdEpCVFFzdkZlWkZkK3FxSGFjOFNxTjd5NlRVRjBzS1dMdmxxZG1YcmRKREFnPT0K",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/deb/studiffy-cours_2.4.7_amd64.deb"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.6/macos/studiffy-cours_2.4.6.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/macos/studiffy-cours_2.4.7.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHhSTzNEdFRXMWlrMGlQQ1BzN3dKKzRMSTUvRFNCc2JlcGZJcEtVbjdEbVFDd0tzaUg5NXBkVEN3aDBHWW9HRVJyM2FkRGhFTTdqWTUzczB0VTdUR0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDU4OTAwCWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjZfeDY0X2VuLVVTLm1zaQpmWWNtQVExL1piRzAvU3pEMmoxNk5YSXBha3Izb3dQT2VRZXRmUlF5YnJUY3Fma1JFcTltUWdrZm9ObGdMd2k4QWU4a3BqckZtMm83cHU1SUdBd0ZCdz09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.6/msi/studiffy-cours_2.4.6_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHd1MzV3VXBxcmZJY3JEWlhockN4UzJ3dzlFSnlHelJHZ2thaWIrOTJsUnRpdnFYQm5RMmhGTDM5TVZhNjZoajU0MG03eXhZc3d2TkdrTTdRaXFrdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDYxNTI5CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjdfeDY0X2VuLVVTLm1zaQppM0lPSGxodlhGV1JlS253bTRoVXZ0RVBYM1JwOVlXeWRuSHhjSm5JbEdqcUlWUW45NTJnMWJ6aitCSG9iQXpvbm12QXJTbzZFdE5ybWtuWGFtcGdCQT09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/msi/studiffy-cours_2.4.7_x64_en-US.msi"
     }
   }
 }
