@@ -1,24 +1,10 @@
 {
   "version": "2.4.8",
-  "notes": "Added a reusable "No Data Found" component for empty states.
-Introduced a shell script to automate setup of commit tooling and templates.
-Added support for viewing and managing shared courses via the sidebar and new API endpoint.
-Improvements
-
-Enhanced breadcrumb navigation to adapt for shared courses across multiple pages.
-Updated empty results messaging to support dynamic labels.
-Improved update experience with a streamlined, single-modal flow and clearer update feature display.
-Bug Fixes
-
-Fixed lesson title validation to consider course ID for uniqueness checks.
-Chores
-
-Standardized commit message formatting with Commitizen, commit templates, and simplified commit hooks.
-Updated Tauri app version to 2.4.8.",
-  "pub_date": "2025-05-02T12:45:48Z",
+  "notes": "✨ **New Features**:\n\n- ➕ Added a reusable *No Data Found* component for empty states.\n- 🛠️ Introduced a shell script to automate setup of commit tooling and templates.\n- 📚 Added support for viewing and managing *shared courses* via the sidebar and new API endpoint.\n\n🚀 **Improvements**:\n\n- 🧭 Enhanced breadcrumb navigation to adapt for shared courses across multiple pages.\n- 📨 Updated empty results messaging to support dynamic labels.\n- 💡 Improved update experience with a streamlined, single-modal flow and clearer update feature display.\n\n🐛 **Bug Fixes**:\n\n- 🔒 Fixed lesson title validation to consider course ID for uniqueness checks.\n\n🧹 **Chores**:\n\n- ✍️ Standardized commit message formatting with Commitizen, commit templates, and simplified commit hooks.\n- 🧱 Updated Tauri app version to **2.4.8**."",
+  "pub_date": "2025-05-02T13:07:38Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODcyeXBNdVA0RnAyeGJyWTZqQjY0d2JWbmNQTUhSbDQ0RWhwbXFJQUdiZVFXemoweVJkWW1Kb1NPRG5zeFBKdmxIaHZhSE9yL00vYW1BUXdENEltMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTg5NzAyCWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfYW1kNjQuZGViCllkZldaVFB0TEcrMytUSHNGempDdVgwQUZGUTFEMUZSQXVEQXM4QmRIc3pmZHNtc2Vwb0liNkRkTExrTlhlR1NBQk96UVZFQkYzeXFidUdZZ2ovZkFnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODE5R2IxYVQ5ekJkak1GSmJVTlBDcERlVSt5azlkTEZLeWRldlFVVG5WSitWazNVaDh0M29BTC9aRnBmY3pGYy81TzYrdHhzeHFSbGp4U3hDODVwMGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTkwODEwCWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfYW1kNjQuZGViCit0MHlMQjNGL3dxV2VNVzVIWlh0T3owTnFHRFJodFFGSWxvNzVhNzNuVU9EV09YVTZZMGg3cXpIUGVpSGlVWnhSZmp6dDY0TUg5UXc4cStRT08wU0JRPT0K",
       "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/deb/studiffy-cours_2.4.8_amd64.deb"
     },
     "darwin-x86_64": {
@@ -26,7 +12,7 @@ Updated Tauri app version to 2.4.8.",
       "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/macos/studiffy-cours_2.4.8.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODJ3UUh6YXZ4bUdMOENHNTBSdEJFdUJSZEhRSlZvLzdQN3RRZGcvWTMxMThrbnhFdnp6clRXWjNuT1hWVC9lbXkvUUh2L1FJWWxsejZ3SWQyeVEzN1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTg5ODU1CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfeDY0X2VuLVVTLm1zaQppZThsdVJ5NFdrUk45ZEZHcTBRZ29RaUxFNi96SnhrT1JhNERSWWw0Zk12Q1FFV2RwekpRMC9xZHFDNnlKcWg3MEpGNnBBUWFsa1g0UHRGUERDSEpEdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHl2WXc2dm9aOWVKSTA4QmUyWWRvZkdodUVkWjYwWU5XRWhEYTA1WVppdUtJRHBIbm51TGErUnFuVUlCVEkxbTJKZmh1RUhwVkJCbzB3WEdkQ0FOaFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTkxMjM0CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfeDY0X2VuLVVTLm1zaQpwTjJOZklpTThRaTRwMUhXS1JiOGx0U0Z5ZEJ5ZEpSMnE0ekpGdVFwUVJhSG1uZ2k1UERFc0NvZDdZTDNkWHRHc3BmMDlMVmtjSUJDNjI1RzFZbTZEUT09Cg==",
       "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/msi/studiffy-cours_2.4.8_x64_en-US.msi"
     }
   }
