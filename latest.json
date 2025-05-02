@@ -1,19 +1,33 @@
 {
-  "version": "2.4.7",
-  "notes": "✨ New Features & Improvements:\n\n- 🔐 Added secure login with biometric support\n- 🗂️ New Class Manager with filtering and pagination\n- ⚡ Performance improvements in video upload and compression\n- 🐛 Fixed issues with lesson syncing on slow connections\n\nThank you for using Studiffy! 🚀",
-  "pub_date": "2025-05-01T01:06:44Z",
+  "version": "2.4.8",
+  "notes": "Added a reusable "No Data Found" component for empty states.
+Introduced a shell script to automate setup of commit tooling and templates.
+Added support for viewing and managing shared courses via the sidebar and new API endpoint.
+Improvements
+
+Enhanced breadcrumb navigation to adapt for shared courses across multiple pages.
+Updated empty results messaging to support dynamic labels.
+Improved update experience with a streamlined, single-modal flow and clearer update feature display.
+Bug Fixes
+
+Fixed lesson title validation to consider course ID for uniqueness checks.
+Chores
+
+Standardized commit message formatting with Commitizen, commit templates, and simplified commit hooks.
+Updated Tauri app version to 2.4.8.",
+  "pub_date": "2025-05-02T12:45:48Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODcvdGpidkJrS2ZsTHNXLzNja1ZJZUNUcHVTZEVPY1YwclFRSG5Pb1BoNDhyOUtKY2JKRzlpTHB4bGpKRHU0RktjaWJjQjNENHFOTHJ2K0hxODFlbFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDYxMjY4CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjdfYW1kNjQuZGViCjhEeUFMbHRSdFpHZkZENGliQ0ZOM244Wnh6dGpCbVhKYzlHVUdZYXEwdEpCVFFzdkZlWkZkK3FxSGFjOFNxTjd5NlRVRjBzS1dMdmxxZG1YcmRKREFnPT0K",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/deb/studiffy-cours_2.4.7_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODcyeXBNdVA0RnAyeGJyWTZqQjY0d2JWbmNQTUhSbDQ0RWhwbXFJQUdiZVFXemoweVJkWW1Kb1NPRG5zeFBKdmxIaHZhSE9yL00vYW1BUXdENEltMUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTg5NzAyCWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfYW1kNjQuZGViCllkZldaVFB0TEcrMytUSHNGempDdVgwQUZGUTFEMUZSQXVEQXM4QmRIc3pmZHNtc2Vwb0liNkRkTExrTlhlR1NBQk96UVZFQkYzeXFidUdZZ2ovZkFnPT0K",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/deb/studiffy-cours_2.4.8_amd64.deb"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/macos/studiffy-cours_2.4.7.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/macos/studiffy-cours_2.4.8.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHd1MzV3VXBxcmZJY3JEWlhockN4UzJ3dzlFSnlHelJHZ2thaWIrOTJsUnRpdnFYQm5RMmhGTDM5TVZhNjZoajU0MG03eXhZc3d2TkdrTTdRaXFrdndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MDYxNTI5CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjdfeDY0X2VuLVVTLm1zaQppM0lPSGxodlhGV1JlS253bTRoVXZ0RVBYM1JwOVlXeWRuSHhjSm5JbEdqcUlWUW45NTJnMWJ6aitCSG9iQXpvbm12QXJTbzZFdE5ybWtuWGFtcGdCQT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.7/msi/studiffy-cours_2.4.7_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODJ3UUh6YXZ4bUdMOENHNTBSdEJFdUJSZEhRSlZvLzdQN3RRZGcvWTMxMThrbnhFdnp6clRXWjNuT1hWVC9lbXkvUUh2L1FJWWxsejZ3SWQyeVEzN1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2MTg5ODU1CWZpbGU6c3R1ZGlmZnktY291cnNfMi40LjhfeDY0X2VuLVVTLm1zaQppZThsdVJ5NFdrUk45ZEZHcTBRZ29RaUxFNi96SnhrT1JhNERSWWw0Zk12Q1FFV2RwekpRMC9xZHFDNnlKcWg3MEpGNnBBUWFsa1g0UHRGUERDSEpEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.4.8/msi/studiffy-cours_2.4.8_x64_en-US.msi"
     }
   }
 }
