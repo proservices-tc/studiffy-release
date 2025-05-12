@@ -1,9 +1,7 @@
 {
   "version": "2.5.1",
-  "notes": "## What's Changed
-* Socket io by @med-aziz-guennichi in https://github.com/Proservices-studiffy-cours/square-desktop-cours/pull/20
-
-
+  "notes": "## What's Changed 
+  * Socket io by @med-aziz-guennichi in https://github.com/Proservices-studiffy-cours/square-desktop-cours/pull/20
 **Full Changelog**: https://github.com/Proservices-studiffy-cours/square-desktop-cours/compare/v2.4.9...v2.5.0",
   "pub_date": "2025-05-12T19:45:55Z",
   "platforms": {
