@@ -1,19 +1,22 @@
 {
-  "version": "2.5.2",
-  "notes": "**Full Changelog**:Fix the redirection bug of the video conferance",
-  "pub_date": "2025-05-12T20:38:34Z",
+  "version": "2.5.3",
+  "notes": "**Full Changelog**: update version, add context menu, and improve component loading].\n\n- Update app version to 2.5.3 in tauri.conf.json.\n\n
+- Wrap GlobalLayout with CustomContextMenu for enhanced context menu functionality.\n\n
+- Implement lazy loading for CourseAccessPopup with Suspense fallback.\n\n
+- Add default options and search functionality to AjouterConferance component",
+  "pub_date": "2025-05-12T21:36:27Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODJxdnRXQTh1U2pYZ1JxRUtwU3pDYkRvSk4wWnJDS0EyMnhyandmZnllVnFmN1hKLy9KL3cvcGZhb2tKVGt5bVMwUitJZEg3VXJRMlN2a0JuWGxrRlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDgxODUzCWZpbGU6c3R1ZGlmZnktY291cnNfMi41LjJfYW1kNjQuZGViCnA0RGxPcGZiNUVkUnA3cDFJNjZsYUxoUlBXR2ZwMjZGNGc3NTNna2ZyRldNYWkrZUlEWVhWSHF5YmdidTJzRHB1aVJzcmJUWTY4YnR2K0hNS0lna0NBPT0K",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.2/deb/studiffy-cours_2.5.2_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHdnSUdxREpIbkxITVcrWmxmNjhzaUNTNEphOFJ1T0FhTWhDVHFlQkVJNG1sMWFkTmh3WmI3dUlZR3d0RDZBMmRiTHRVNXdqanN5Zm5tOTRMd0I4MEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDg1MjAyCWZpbGU6c3R1ZGlmZnktY291cnNfMi41LjNfYW1kNjQuZGViCkpXRDZGb24xYnZTd0xZanptYUdndy9rQWwzNmhNUTJ0TWtCK2VIWVhPTjZoZ0lyYUl0aElnU2twck9weWxuTG0xUlRFSExkUjY5d1Noa3NHTUpDaEFBPT0K",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.3/deb/studiffy-cours_2.5.3_amd64.deb"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.2/macos/studiffy-cours_2.5.2.app.tar.gz"
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.3/macos/studiffy-cours_2.5.3.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODhCVmVvb3pjOEtQSzJzcVM5aC96a1gxYXdabFFpaTM1eW9OSTJqc2NUMzNvUVZVK1BnSU85WHlUUkVDN241VEFYWGlscThuam1KVjJ1ci9ZeHFqdEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDgyMjI1CWZpbGU6c3R1ZGlmZnktY291cnNfMi41LjJfeDY0X2VuLVVTLm1zaQo0cjBYT2MwZlRqeDVFVnhObjgvZnMzbnBVVDJXaU1QMEVBN2lxcDFOQjV0SUNXL0QwVGFMRThaUDlKd1lVZ2ZMOEI3ZWFMZWtxK3o0Tnk4S2FhUVJDUT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.2/msi/studiffy-cours_2.5.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHpSbUNVY2dYK1QzYitoNDRXSVZHdDZVYUNQREFCZnMvVkh5U2xqdkdEU0hsdzQzK2xEMmdoaTIwRVdKZTZ1Y1N0cllQR0lsa1oxV3ZBNGRieEVGWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MDg1NzA0CWZpbGU6c3R1ZGlmZnktY291cnNfMi41LjNfeDY0X2VuLVVTLm1zaQpUTkNxV05nUU9vZ2ZqTVBRWFRYRmpSZzNsSTRlbmxsT3NDNnNzTU9jcmZIVWVDejBhWEx1WUw5bnRGOVVSdlJRbFlrS0FEZ2l1Nk5EL3dsUHNrMldEZz09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.5.3/msi/studiffy-cours_2.5.3_x64_en-US.msi"
     }
   }
 }
