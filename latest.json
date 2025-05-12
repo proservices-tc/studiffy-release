@@ -1,9 +1,6 @@
 {
   "version": "2.5.3",
-  "notes": "**Full Changelog**: update version, add context menu, and improve component loading].\n\n- Update app version to 2.5.3 in tauri.conf.json.\n\n
-- Wrap GlobalLayout with CustomContextMenu for enhanced context menu functionality.\n\n
-- Implement lazy loading for CourseAccessPopup with Suspense fallback.\n\n
-- Add default options and search functionality to AjouterConferance component",
+  "notes": "**Full Changelog**: update version, add context menu, and improve component loading.\n\n- Update app version to 2.5.3 in tauri.conf.json.\n\n- Wrap GlobalLayout with CustomContextMenu for enhanced context menu functionality.\n\n- Implement lazy loading for CourseAccessPopup with Suspense fallback.\n\n- Add default options and search functionality to AjouterConferance component",
   "pub_date": "2025-05-12T21:36:27Z",
   "platforms": {
     "linux-x86_64": {
