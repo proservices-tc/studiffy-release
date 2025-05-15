@@ -1,11 +1,11 @@
 {
-  "version": "2.6.4",
-  "notes": "**Full Changelog**: https://github.com/Proservices-studiffy-cours/square-desktop-cours/compare/v2.6.3...v2.6.4",
-  "pub_date": "2025-05-13T18:37:05Z",
+  "version": "2.6.5",
+  "notes": "## What's Changed\n\n* feat(notif): implement notification for facturisation by @med-aziz-guennichi in https://github.com/Proservices-studiffy-cours/square-desktop-cours/pull/21\n\n**Full Changelog**: https://github.com/Proservices-studiffy-cours/square-desktop-cours/compare/v2.6.4...v2.6.5.\n\n",
+  "pub_date": "2025-05-15T17:50:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwOHlQbktucTkvMW5tT3RQNXNRL2dKKzFOUUFSQnU1aSsyRjVrMEltbEMvV0hmR0Y0dVk5RDZyditoOWN6VjY1TFVlb3hqSEdZWkJ6cFpMS3FpZGdhalFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MTYxMzQ3CWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjRfeDY0X2VuLVVTLm1zaQpmY3ovNUxWTEtNeHZWYThuV1lLN2NaN0dQaTNEcGxlZll5RjZucjhKVjRqRTI0T0tZUTlmNXhuSVkySFN5Y1ExTjNIaGk1M0JzNGZ2Q2VCOGE3VXhEQT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.6.4/msi/studiffy-cours_2.6.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODB6L1daSkgwNGFBZllxSlNmd3EyTUtLdTB4amlCK1BUTzgrZkJXNnNqblY2cStwV212WisrUldSbDRJSkxnMnpyYnBvNmUrQkRmVTduTmRJOExQVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MzMxMjYwCWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjVfeDY0X2VuLVVTLm1zaQpyVE9TTHQzN2VWano5R1NGcUoyMGxKYUJRbWc5T0JtTFdwUnNDZXZsMVNtWklVTVN0V3NZMzgxMEs1Y0RCcTB4dXd4QWlCRjIyQUVZMnNyZ3VWWU9BUT09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.6.5/msi/studiffy-cours_2.6.5_x64_en-US.msi"
     }
   }
 }
