@@ -1,11 +1,11 @@
 {
-  "version": "2.6.5",
-  "notes": "## What's Changed\n\n* feat(notif): implement notification for facturisation by @med-aziz-guennichi in https://github.com/Proservices-studiffy-cours/square-desktop-cours/pull/21\n\n**Full Changelog**: https://github.com/Proservices-studiffy-cours/square-desktop-cours/compare/v2.6.4...v2.6.5.\n\n",
-  "pub_date": "2025-05-15T17:50:32Z",
+  "version": "2.6.6",
+  "notes": "**Full Changelog**: feat: update app version and enhance update handling\n\n- Bump app version to 2.6.6 in tauri.conf.json\n\n- Add error handling for update checks in global-layout.tsx\n\n- Integrate tauri_plugin_updater in lib.rs to support app updates.\n\n",
+  "pub_date": "2025-05-15T18:35:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODB6L1daSkgwNGFBZllxSlNmd3EyTUtLdTB4amlCK1BUTzgrZkJXNnNqblY2cStwV212WisrUldSbDRJSkxnMnpyYnBvNmUrQkRmVTduTmRJOExQVHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MzMxMjYwCWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjVfeDY0X2VuLVVTLm1zaQpyVE9TTHQzN2VWano5R1NGcUoyMGxKYUJRbWc5T0JtTFdwUnNDZXZsMVNtWklVTVN0V3NZMzgxMEs1Y0RCcTB4dXd4QWlCRjIyQUVZMnNyZ3VWWU9BUT09Cg==",
-      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.6.5/msi/studiffy-cours_2.6.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODNWOEorN1R2b2graVA3b091TGd5Y2VJRzIyRzRDa3lWd213RUVLRmhMTUJGeGRIUDNGdnEwWE9DM3A0U0NhOE1mWHhEQWFlNzNpZkdYL2VVSTdJQ3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3MzM0MDA5CWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjZfeDY0X2VuLVVTLm1zaQpObWNvZGVtOW9JelNEbG5ibzV4aHZ3eW9URDRrYVMxam5JdlV6TDl1ZHQ1OFBVMFFLRTd0NXo3bWY1VXZkbG80ZTB3Q1hTRFVTdSsreDNZaS83MXFCdz09Cg==",
+      "url": "https://raw.githubusercontent.com/med-aziz-guennichi/studiffy-release/main/releases/v2.6.6/msi/studiffy-cours_2.6.6_x64_en-US.msi"
     }
   }
 }
