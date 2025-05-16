@@ -1,11 +1,11 @@
 {
-  "version": "2.6.8",
-  "notes": "**Full Changelog**: https://github.com/proservices-tc/square-desktop-cours/compare/v2.6.7...v2.6.8",
-  "pub_date": "2025-05-16T09:26:06Z",
+  "version": "2.6.9",
+  "notes": "**Full Changelog**: https://github.com/proservices-tc/square-desktop-cours/compare/v2.6.8...v2.6.9",
+  "pub_date": "2025-05-16T09:45:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODdRb0RZWVRINDYrdGpmSDYyeEswbUYwNUFHZFc4S3BodUNIZ2ZnSlJzSC8yaFk0M1d6ZC9ua3ZJc2JJMk53NGF3VlBQYzI0azFRRXFSR1ZzWG0zTlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Mzg3NDc1CWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjhfeDY0X2VuLVVTLm1zaQpBVEhQUDR2V2tUUy9xL3BYMXh4dFVSY00vTnFBd2ZRVEhjb1J1V0l4TzFHdHVnalpxVTMrVXFKVHJuZTVPY0Z4UDkzUzhWdW96L3ZjY0tORWVrNU5Bdz09Cg==",
-      "url": "https://raw.githubusercontent.com/proservices-tc/studiffy-release/main/releases/v2.6.8/msi/studiffy-cours_2.6.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODhLdjJON0JNT2t2UFdKTGFsNlNhSFpwRWVHWUkwMVVOMC96RjV2SXQwakNFYUc3d25EOWdybkNjNkc1akVDRVlaUHBPd05YblBYa1pLbHpHa01ZNUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Mzg4NjYwCWZpbGU6c3R1ZGlmZnktY291cnNfMi42LjlfeDY0X2VuLVVTLm1zaQpGK2JkWHRFTzNGWGpNdy93Smg0VVR5UmlnVHZpcUNpRjhKY1B4bjNNT1hkUUZFSU53M2pCMjlpOFFrcmovQW1nd0gyWEszd3NVT0dYYlEwWjZmRU5BZz09Cg==",
+      "url": "https://raw.githubusercontent.com/proservices-tc/studiffy-release/main/releases/v2.6.9/msi/studiffy-cours_2.6.9_x64_en-US.msi"
     }
   }
 }
