@@ -1,11 +1,11 @@
 {
-  "version": "2.7.5",
+  "version": "2.7.6",
   "notes": "",
-  "pub_date": "2025-07-15T10:53:02Z",
+  "pub_date": "2025-08-01T13:42:26Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODFZaC9EOTlOempBZ0V0REd6ZEhPcGZXNlc0bjhzd1JTQVFjZzJNeEwxNFN2TGNsRFJmSzRIRER2TmVOYTA1T0JlN2M4Qnc0cWpXUHVIalJ1UEtlRXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzUyNTc2NjY0CWZpbGU6c3R1ZGlmZnktY291cnNfMi43LjVfeDY0X2VuLVVTLm1zaQpQbDh5S1laWHk2RFF3aGRGNjl1cmJ4UWEzRmo0djk2MWpkQy8yeUo1MlBZUHhTMkxTSk1ranhTUlpEVVBRNUtsdnIvQS9sS3gxbGJQTWxxVkVhRk5Edz09Cg==",
-      "url": "https://raw.githubusercontent.com/proservices-tc/studiffy-release/main/releases/v2.7.5/msi/studiffy-cours_2.7.5_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReTh3L21RempwODlZNTh2NGhmRE5mTmo0dVpyVkxhZnNHaEJxVjVyamh4Y2s5NERvaHFSMWYyei9TTnByZlB3SGFiQ1A3a0hsRVh1cTZtWUdLd2lYZ2UxQmZuci9IOWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0MDU1NjU1CWZpbGU6c3R1ZGlmZnktY291cnNfMi43LjZfeDY0X2VuLVVTLm1zaQpqclJSTWZaUldCSGVmRmlCRDlsNHV2QnBjZzhRYnZOV241V3VrMlBuYldqUFd2TE5BNVM3U0RrWStITzl3MFdFT0JPRzlkQkx6T2U0VkhIeDhUeU5BZz09Cg==",
+      "url": "https://raw.githubusercontent.com/proservices-tc/studiffy-release/main/releases/v2.7.6/msi/studiffy-cours_2.7.6_x64_en-US.msi"
     }
   }
 }
